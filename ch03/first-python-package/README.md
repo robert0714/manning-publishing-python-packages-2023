@@ -1,6 +1,6 @@
 # first-python-package
-
-This package does amazing things.
+* See https://packaging.python.org/en/latest/tutorials/installing-packages/
+* This package does amazing things.
 
 ## Installation
 
