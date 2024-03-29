@@ -1,5 +1,7 @@
 # first-python-package
-* See https://packaging.python.org/en/latest/tutorials/installing-packages/
+* See
+  * https://packaging.python.org/en/latest/tutorials/installing-packages/
+  * https://setuptools.pypa.io/en/latest/userguide/entry_point.html
 * This package does amazing things.
 
 ## Installation
