@@ -18,3 +18,5 @@ $ python -m pip install first-python-package
 * github: https://github.com/pypiserver/pypiserver
 * docker-compose: https://github.com/pypiserver/pypiserver/blob/master/docker-compose.yml
 
+## Azure Pipeline Sample
+https://github.com/Azure-Samples/azure-pipelines-python/tree/master
